@@ -1,4 +1,4 @@
-package Lab5;
+package Code;
 
 import lejos.hardware.lcd.*;
 import lejos.robotics.Color;
