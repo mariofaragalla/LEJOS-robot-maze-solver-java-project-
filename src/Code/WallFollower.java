@@ -1,4 +1,4 @@
-package Lab5;
+package Code;
 
 import lejos.hardware.Sound;
 import lejos.hardware.motor.EV3LargeRegulatedMotor;
