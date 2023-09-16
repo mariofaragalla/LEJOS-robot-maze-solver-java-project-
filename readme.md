@@ -6,4 +6,5 @@ The color that the robot searches for is given by the user using a simple Menu.
 The algorithm implemented for such a task is a simple left-wall follower. 
 Please check the simulation for this project here: 
 
-https://github.com/mariofaragalla/LEJOS-robot-maze-solver-java-project-/assets/55330224/bee65cea-1dd4-4d83-b5b5-a4c92dec6aa4
+https://github.com/mariofaragalla/LEJOS-robot-maze-solver-java-project-/assets/55330224/316ddefa-3f2d-4fa5-9451-0cb6c1692d97
+
